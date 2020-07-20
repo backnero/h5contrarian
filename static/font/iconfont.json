@@ -1,0 +1,79 @@
+{
+  "id": "1641862",
+  "name": "逆行者chan'p",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13059855",
+      "name": "展开",
+      "font_class": "duobianxing1",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "13044419",
+      "name": "xin",
+      "font_class": "xin",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "13044417",
+      "name": "xin-",
+      "font_class": "xin-",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "13044238",
+      "name": "weizhi",
+      "font_class": "weizhi1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "13044234",
+      "name": "zhuanfa",
+      "font_class": "zhuanfa1",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "13044230",
+      "name": "救援",
+      "font_class": "jiuyuan",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "13044224",
+      "name": "quxiao",
+      "font_class": "quxiao1",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    },
+    {
+      "icon_id": "13044222",
+      "name": "laba",
+      "font_class": "laba1",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "13044028",
+      "name": "附近",
+      "font_class": "fujin",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "13043550",
+      "name": "多边形1",
+      "font_class": "duobianxing",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    }
+  ]
+}

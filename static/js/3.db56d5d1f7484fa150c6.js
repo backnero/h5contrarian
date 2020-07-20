@@ -1,0 +1,2 @@
+webpackJsonp([3],{"8J/z":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var c=t("vMJZ"),i={created:function(){Object(c.a)("wxbca9a1aeb51664cb","https://nixingzhe.qisuxinxi.com/#/rescue")}},r={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    授权中.....请等待\n")])},staticRenderFns:[]};var s=t("VU/8")(i,r,!1,function(e){t("QIM0")},null,null);n.default=s.exports},QIM0:function(e,n){}});
+//# sourceMappingURL=3.db56d5d1f7484fa150c6.js.map
